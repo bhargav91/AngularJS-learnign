@@ -64,8 +64,8 @@
       <file leaf-file-name="AddNumbers.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AddNumbers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56110156">
-              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.20998278">
+              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -85,8 +85,8 @@
       <list>
         <option value="$PROJECT_DIR$/FirstFile.html" />
         <option value="$PROJECT_DIR$/ControllerExample.html" />
-        <option value="$PROJECT_DIR$/AddNumbers.html" />
         <option value="$PROJECT_DIR$/ListOfNames.html" />
+        <option value="$PROJECT_DIR$/AddNumbers.html" />
       </list>
     </option>
   </component>
@@ -303,8 +303,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AddNumbers.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56110156">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.20998278">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
           <folding />
         </state>
       </provider>
