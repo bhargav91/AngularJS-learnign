@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="../PracticeProject/scripts/angular.js"></script>
+    <title>Example of two way data binding with Angular JS</title>
+</head>
+<body ng-app>
+
+<div>
+    <h1>Example of two way data binding with Angular JS</h1>
+
+    <label>Enter text:</label>
+    <input  type="text" ng-model="myText" placeholder="Enter text here">
+    <br/><br/>
+
+    <div>Text : {{myText}}</div>
+    <div>Text : {{1+2}}</div>
+    <br/>
+    <div>Text: <span ng-bind="myText"></span> </div>
+</div>
+</body>
+</html>
